@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/cloudfirst/cfgcenter/cfgcenter.iml" filepath="$PROJECT_DIR$/cloudfirst/cfgcenter/cfgcenter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloudfirst/configclient/configclient.iml" filepath="$PROJECT_DIR$/cloudfirst/configclient/configclient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloudfirst/configtest/configtest.iml" filepath="$PROJECT_DIR$/cloudfirst/configtest/configtest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloudfirst/eucltest/eucltest.iml" filepath="$PROJECT_DIR$/cloudfirst/eucltest/eucltest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloudfirst/eusetest/eusetest.iml" filepath="$PROJECT_DIR$/cloudfirst/eusetest/eusetest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloudfirst/feigntest/feigntest.iml" filepath="$PROJECT_DIR$/cloudfirst/feigntest/feigntest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloudfirst/ribbontest/ribbontest.iml" filepath="$PROJECT_DIR$/cloudfirst/ribbontest/ribbontest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/springcloudfirst.iml" filepath="$PROJECT_DIR$/.idea/springcloudfirst.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloudfirst/zuultest/zuultest.iml" filepath="$PROJECT_DIR$/cloudfirst/zuultest/zuultest.iml" />
+    </modules>
+  </component>
+</project>

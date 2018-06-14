@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="cfgcenter" />
+        <module name="configclient" />
+        <module name="configtest" />
+        <module name="eucltest" />
+        <module name="eusetest" />
+        <module name="feigntest" />
+        <module name="ribbontest" />
+        <module name="zuultest" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="cfgcenter" target="1.8" />
+      <module name="configclient" target="1.8" />
+      <module name="configtest" target="1.8" />
+      <module name="eucltest" target="1.8" />
+      <module name="eusetest" target="1.8" />
+      <module name="feigntest" target="1.8" />
+      <module name="ribbontest" target="1.8" />
+      <module name="zipkinserver" target="1.8" />
+      <module name="zuultest" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
